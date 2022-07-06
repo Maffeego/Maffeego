@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey, I'm Vinícius Maia ✌
 
-<!--
-**Maffeego/Maffeego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏃‍♂️ I’m currently working on a portable traffic light 🚦.
+- 🌱 I’m currently learning C++ and Java.
+- 💬 Ask me about C.
+- 📫 How to reach me: [ Twitter - @maffeego ](https://twitter.com/maffeego)
+- 😄 Pronouns: He/His
 
-Here are some ideas to get you started:
+### 📟 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/maffeego">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maffeego&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+</div>
