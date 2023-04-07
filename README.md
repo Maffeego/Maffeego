@@ -1,7 +1,7 @@
 ## Hey, I'm Vinícius Maia ✌
 
 - 🏃‍♂️ I’m currently working on a portable traffic light 🚦.
-- 🌱 I’m currently learning C++ and Java.
+- 🌱 I’m currently learning Python.
 - 💬 Ask me about C.
 - 📫 How to reach me: [ Twitter - @maffeego ](https://twitter.com/maffeego)
 - 😄 Pronouns: He/His
